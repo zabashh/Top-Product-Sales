@@ -82,6 +82,6 @@ for Total Sales.
 
 Click the image to view the Dashboard
 
-[![Top Product Sales Dashboard](images/Dashboard.png)](https://app.powerbi.com/groups/me/reports/69eef2bf-3077-4b5f-8941-806845d453af/ReportSection?experience=power-bi)
+[![Top Product Sales Dashboard](images/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMWJkZDQ2Y2YtNGJmYS00MmQ1LTkxYWEtYTc2MzJkMTVlZjEwIiwidCI6IjM2YTdjZjhlLTdiNGItNGY4OC05MjRkLTFiOTQwYjE4OTc0NyIsImMiOjF9)
 
 
