@@ -77,11 +77,11 @@ This data model has now a Date table and A Fact table connected in a one to many
 
 ## Top Product Sales Dashboard
 
-The completed Product Sales dashboard has filters for year and month and slicers for Region, Marketing Campaign and Sales Team and a card name 
+The completed Product Sales dashboard has filters for year and month and slicers for Region, Marketing Campaign and Sales Team and a card 
 for Total Sales.
 
 Click the image to view the Dashboard
 
-[![Sales Management Dashboard](images/Dashboard.png)]
+[![Top Product Sales Dashboard](images/Dashboard.png)](https://app.powerbi.com/groups/me/reports/69eef2bf-3077-4b5f-8941-806845d453af/ReportSection?experience=power-bi)
 
 
