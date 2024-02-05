@@ -7,7 +7,7 @@
 Email From the Stake Holder : 
 Subject: Zooming in on Our Product Stars?
 
-Dear Awesome Data Analyst,
+Dear Zohaib,
 
 I trust this email finds you well.
 
